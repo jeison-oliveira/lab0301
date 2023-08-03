@@ -1,4 +1,4 @@
-ame: Test Pipe
+name: Test Pipe
 on: push
 jobs:
   build:
